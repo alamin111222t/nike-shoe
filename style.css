@@ -1,0 +1,169 @@
+body{
+    background-color: rgb(255, 249, 244);
+}
+nav{
+    background-color: rgb(255, 249, 244);
+}
+.navbar-nav a  h6{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0,0,0,1);
+}
+.nikeLogo{
+    width: 260px;
+    height:55px;
+}
+.nav-link{
+    margin:0px 20px ;
+}
+/* nav menu end      step 1 end */
+/* nav menu end      step 1 end */
+
+/* hero section sTART */
+
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    justify-content: center;
+    background-color:rgb(255, 249, 244);
+    padding-bottom: 40px;
+    
+}
+.card-step-2{
+    margin-top: 80px;
+    width: 600px;
+    height: auto;
+    margin-left:60px ;
+}
+.card-1-step2 img{
+    width: 100%;
+}
+.card-2-step2{
+    margin-top: 12%;
+}
+.card-2-step2 h1{
+    font-size: 6vh;
+}
+#nike-react{
+    color:rgb(250,128,76) ;
+}
+#infinity{
+    color: rgb(54,57,88);
+}
+.btn-1{
+    padding: 8px 25px;
+    font-size: 20px;
+    font-weight: 400;
+}
+/* hero section eND */
+/* step-3  step4 start */
+.normal-shoes-sec{
+    margin-top: 5%;
+}
+.normal-margin{
+    text-align: center;   
+}
+.normal-margin h1{
+    font-size:5vh ;
+}
+.card-box-2{
+    margin-top: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    justify-content: center;
+    
+}
+.card-step-3{
+    width:400px;
+    margin: 30px 20px;
+    
+    padding: 15px;
+    box
+}
+.card-box-2 img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+/* step-3  step4 End */
+
+/* step 5 start */
+.feedback-card{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+.feedback-card-1{
+    width:550px;
+    margin: 45px;
+}
+.feedback-card-1 img{
+    width: 100%;
+}
+.feedback-card1-step-5{
+    padding: 10px;
+}
+.feedback-card1-step-5 img{
+    width: 120px;
+
+}
+.second-div-write-step-5{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.img-padding-step5{
+    padding: 10px;
+}
+.feedback-card2-step-5{
+    padding-top: 10%;
+}
+
+/* step 5 end */
+/* step 6 Start */
+.last-secdrtion{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    justify-content: center;
+}
+.login-form{
+    width:750px;
+}
+.login-form img{
+    width: 100%;
+}
+
+.login-container {
+    background-color:rgb(255, 249, 244);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height: 460px;
+    text-align: center;
+    box-shadow: none;
+  }
+  .login-container h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  .btn-danger {
+    display: block;
+    margin-top: 1rem;
+  }
+
+  /* fotter section */
+  .footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+}
+
+/* background colour change */
