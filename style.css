@@ -125,7 +125,7 @@ nav{
 
 /* step 5 end */
 /* step 6 Start */
-.last-secdrtion{
+.last-section{
     display: flex;
     flex-wrap: wrap;
     overflow: hidden;
@@ -140,7 +140,7 @@ nav{
 
 .login-container {
     background-color:rgb(255, 249, 244);
-    padding: 2rem;
+    padding:2rem;
     border-radius: 8px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     width: 400px;
